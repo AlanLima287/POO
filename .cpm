@@ -10,7 +10,7 @@
 @doctui
 @doc {
     $ cd doc
-    $ javadoc ..\src\main\java\visual\tui\Main.java
+    $ javadoc ../src/main/java/visual/tui/Main.java
 }
 
 @docgui {
